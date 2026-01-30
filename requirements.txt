@@ -1,0 +1,4 @@
+sudachipy
+sudachipy-dictionary
+wordcloud
+matplotlib
